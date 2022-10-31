@@ -1,0 +1,38 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.color-orange{
+    color: orange;
+}
+.link-down{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    padding: 10px 40px;
+    border-radius: 5%;
+    
+}
+.fst-section{
+    width: 70%;
+    padding-left: 10%;
+    font-size: 120%;
+    padding-top: 5%;
+}
+
+    
+.about-us{
+    display: flex;
+    
+}
+.img-section img{
+    width: 60%;
+    padding-left: 10%;
+}
+h1{
+    font-size: 40px;
+}
+#slice-box{
+    border-left: 5px solid;
+    border-image: linear-gradient(red,orange);
+    border-image-slice: 1;
+    
+}
