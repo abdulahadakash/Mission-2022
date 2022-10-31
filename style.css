@@ -21,11 +21,15 @@ body{
     
 .about-us{
     display: flex;
+    margin-bottom: 5%;
     
 }
 .img-section img{
     width: 60%;
     padding-left: 10%;
+}
+.img-section1 img{
+    width: 50%;
 }
 h1{
     font-size: 40px;
@@ -35,4 +39,33 @@ h1{
     border-image: linear-gradient(red,orange);
     border-image-slice: 1;
     
+}
+#fornt-dis{
+    text-align: center;
+}
+.box-iteam1{
+background-color: grey;
+    width: 33%;
+    padding: 10px;
+    box-shadow: none;
+    margin: 1%;
+    border-radius: 10px;
+    
+    
+}
+.box-iteam2{
+    width: 33%;
+    padding: 10px;
+    box-shadow: none;
+    background-color: burlywood;
+margin: 1%; 
+border-radius: 10px;   
+}
+.box-iteam3{
+    width: 33%;
+    padding-left: 10px;
+    box-shadow: none;
+background-color:darkorange;  
+margin: 1%;  
+border-radius: 10px;
 }
