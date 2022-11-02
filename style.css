@@ -27,6 +27,7 @@ body{
 .img-section img{
     width: 60%;
     padding-left: 10%;
+    
 }
 .img-section1 img{
     width: 50%;
@@ -68,4 +69,24 @@ border-radius: 10px;
 background-color:darkorange;  
 margin: 1%;  
 border-radius: 10px;
+}
+.img-section2 img{
+    width: 40%;
+    margin-bottom: 10%;
+    padding-left: 20%;
+}
+.sec-section{
+    width: 60%;
+    padding-right: 10%;
+    margin-left: 1%;
+}
+#back-img{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#back-img1{
+    background-image: url(images/shape-1.png);
+    background-position: right;
+    background-repeat: no-repeat;
 }
